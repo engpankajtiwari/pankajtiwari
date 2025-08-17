@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mechanical Engineer Profile mrs. Pankaj Tiwari</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="Basic styling" href="styles.css">
+      </head>     
+      <body>
+      <style>
+        body{
+          font-family: Arial, Helvetica, sans-serif;
+          margin: 0;
+          padding: 0;
+          line-height: 1.5;
+          background-color: rgb(49, 131, 103);
+          color: #333;
+        }
+        
+        header{
+          background: #dda7a7;
+          color: #fff;
+          padding: 20pxm 0;
+          text-align: start;
+        }
+        header h1{margin: 0;}
+        nav a{
+          padding: 10px;
+        }
+        nav a{
+          color: #fff;
+          margin: 0 15px;
+          text-decoration: none;
+          font-weight: bold;
+        }
+        nav a:hover{color: #ffd700;}
+        section{
+          padding: 40px;
+          max-width: 1000px;
+          margin: auto;
+        }
+        h2{
+          color: #222;
+          border-bottom: 2px solid #ddd;
+          padding-bottom: 10px;
+        }
+        .card{
+          background: #fff;
+          margin: 20px 0;
+          padding: 20px;
+          border-radius: 10px;
+          box-shadow: 0 2px 5px rgbe(0,0,0,0.1);
+        }
+        footer{
+          text-align: center;
+          padding: 20px;
+          background: #444;
+          color: #fff;
+          text-decoration-line: none;
+          border-radius: 5px;
+        }
+        .btn{
+          display: inline-block;
+          padding: 10px 20px;
+          background: #444;
+          color: #fff;
+          text-decoration: none;
+          border-radius: 5px;
+        }
+        .btn:hover{background: #ffd700;color: #000;}
+
+      </style>
+    
+  <!-- Navigation Bar -->
+  <header>
+    <nav>
+      <div class="logo">
+        <h1>Mrs. Pankaj Tiwari</h1>
+        <h3>pankaj44721@gmail.com</h3>
+        <p>Mechanical Engineer</p>
+      </div>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#Achievement & Award">Achievement & Award</a></li>
+        <li><a href="#Summer Internship">Summer Internship</a></li>
+        <li><a href="#Activities">Activities</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <div class="menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <!-- About Section -->
+    <section id="about" class="section">
+      <div class="container">
+        <h2>About Me</h2>
+        <p>
+          I am a passionate Mechanical Engineer with experience in designing, analyzing, and optimizing mechanical systems & Principles,Theories standards,Regardless of undertaking any types of projects.I am committed to continuous improvement and dedicated to delivering high-quality engineering projects. Seeking a job as a mechanical engineering where i can use my extensive where i can use my experince to help you organization achieve its goal of excellence in the mechanical engineering industry.
+
+        </p>
+      </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section">
+      <div class="container">
+        <h2>Projects</h2>
+        <div class="project">
+          <h3>Advance manufacturing process and techniques</h3>
+          <p>
+            Advanced manufacturing processes and techniques integrate state-of-the-art technologies such as automation, robotics, computer numerical control (CNC) machining, and additive manufacturing (3D printing) to transform traditional production methods. By leveraging real-time data, smart sensors, and digital modeling, these methods improve precision, enhance efficiency, and enable rapid prototyping and customization. Embracing Industry 4.0 principles, advanced manufacturing minimizes waste and optimizes production workflows, thereby fostering greater flexibility, scalability, and sustainability in modern manufacturing environments.
+          </p>
+          <li>industry4,0 and Digital Transformation</li>
+          <li>High customization</li>
+          <li>Industry design structure methods</li>
+          <li>knowledge at DFSS(Define,Measur,Analyze,Design,Varify)</li>
+          <p><strong>Outcome:</strong> Increased production efficiency by 20% and reduced downtime by 15%.</p>
+        </div>
+        <div class="project">
+          <h3>Multipurpose Agriculture robotics</h3>
+          <p>
+            The robots in this project are meant to focus effectively and do tasks independently.
+The proposed design employs a vehicle to do duties such sloughing, sowing, grass
+cutting, pesticide spraying, and detecting and recommending pesticides for leaf
+disease. These responsibilities are consolidated and carried out in a single vehicle.
+Farmers may reduce environmental impact, improve accuracy and efficiency, a
+manage individual plants in novel ways by monitoring farms 24 hours a day, seven
+days a week.
+          </p>
+          <li>Multi-functional</li>
+          <li>Automation</li>
+          <li>Precision Agriculture</li>
+          <li>Efficiency</li>
+          <li>Reduced Environmental Impact</li>
+          <li>Solar Power</li>
+          <p>Benefits of Multipurpose Agriculture Robots</p>
+          <li>Increased Efficiency and Productivity</li>
+          <li>Reduced Labor Costs</li>
+          <li>Improved Precision</li>
+          <li>Environmental Sustainability</li>
+          <p><strong>Outcome:</strong> Projected annual energy savings of 30%.</div></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="section">
+      <div class="container">
+        <h2>Professional Experience</h2>
+        <div class="experience-item">
+          <h3>Mechanical quality Engineer</h3>
+          <h4>G.S Auto International limited - Ludhiana,Punjab,India</h4>
+          <p class="date">September-2023-February-2025</p>
+          <ul>
+            <li>It is ISO 9002 certification in 1997 and QS 9000 certificationby BVQI,UK in 1999(Re-certified in 2003).</li>
+            <li>The company is looking forward to take a further leap by implementing 5S,TPM,TQM concepts.</li>
+            <li>I was also handling CNC,VMC/Machine shop Depatment.it is casting & manufacturing At OEM product.</li>
+            <li>Collaborated with teams for design reviews, testing, and product optimization.</li>
+            <li>Develop and implement Quality Assurance processes and procedures to ensure product quality.</li>
+            <li>Conduct inspection and tests on products to identify defects and ensure compliance with specification.</li>
+            <li>Collaborate with cross-functional teams to resolve quality issues and implement corrective actions.</li>
+            <li>Prepare and maintain documentation related to quality assurance activities, including reports and audits.</li>
+            <li>Participate in root cause analysis and problem-solving activities to improve product quality.</li>
+            <li>Assist in the development and execution of quality control plans and strategies.</li>
+          </ul>
+        </div>
+        <div class="experience-item">
+          <h3>Production Mechanical Engineer</h3>
+          <h4>Hero steel limited - Ludhiana,Punjab,India</h4>
+          <p class="date">February-2025-Current job</p>
+          <ul>
+            <li>Hero Enterprise is ISO 9001 & 14001 CERTIFIED, demonstrating a commitment to quality and
+              environmental responsibility.</li>
+            <li>Optimising the manufacturing processes to improve production efficiency, reduce costs and enhance
+              product quality.</li>
+            <li>Collaborating with cross-functional teams to implement process improvements and new production
+              technologies.</li>
+            <li>Monitoring production processes, identifying areas for improvement and implementing corrective
+              actions.</li>
+            <li>Ensuring compliance with safety regulations and quality standards in all production activities.</li>
+            <li>Maintain 5S in leading Area.</li>
+            <li>Providing technical support to production teams and addressing technical issues.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="section">
+      <div class="container">
+        <h2>Technical Skills</h2>
+        <ul class="skills-list">
+          <li><strong>Design & Modeling:</strong>AutoCAD,Engineering Drawing</li>
+          <li><strong>Programming:</strong> C/C++</li>
+          <li><strong>Manufacturing:</strong> CNC/VMC Machining Quality,Rapid Prototyping,Process improvement</li>
+          <li><strong>Other Tools:</strong>SAP ERP System, Microsoft Office, project management software</li>
+          <li><strong>Other Skills</strong>Good communication Skills,Analysis and Reporting,Fire Protection,Brackdown analysis,</li>
+          <li><strong>Quality & Production</strong>7QC Tool,5 Core Tool,3M,Instument knowledge,Production inventory & Manpower control</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education" class="section">
+      <div class="container">
+        <h2>Education</h2>
+        <div class="education-item">
+          <h3>B.TECH in Mechanical Engineering</h3>
+          <h4>Gurukula kangari (Deemed to be university) - Haridwar,uk,India</h4>
+          <p class="date">Graduation: 2020 to 2024</p>
+          <p>Relevant Coursework: Thermodynamics,Fluid Mechanics,Material Science,Control Systems,Machine Design.Manufacturing systems</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Achievement & Award section -->
+     <section id="Achievement & Award" class="section">
+      <div class="container">
+        <h2>Achievement & Award</h2>
+        <div class="Achievement & Award-item">
+          <h4>3rd Position in S.B.D.P.R College,Saran,Bihar At Speech competition to the topic Discipline. </h4>
+        </div>
+      </div>
+     </section>
+
+     <!--Summer Internship section-->
+     <section id="=Summer Internship" class="Section">
+      <div class="container">
+        <h2>Summer Internship</h2>
+        <div class="Summer Internship">
+          <h3>Rail wheel plant,(Saran)Bihar,india</h3>
+          <li>Rail wheel plant bela is 8th production unit and 2nd wheel plant of Indian Railways.</li>
+          <li>It manufacturing Box-N and B.G.C(Broad Gauge coach) wheel.</li>
+          <li>I learned about the casting and manufacturing process here.</li>
+        </div>
+      </div>
+     </section>
+
+     <!--Activities section-->
+     <section id="Activities"class="section">
+      <div class="container">
+        <h2>Activities</h2>
+        <div class="Activities">
+          <li> Bharat scouts and guided state Bihar, patna.</li>
+          <li>To the participate in Harijee Aphar H/S Aphar saran bihar at running competition.</li>
+          <li>Ganga Bharat Abhiyaan to participate in Haridwar (UK).</li>
+          <li>Industrial robot technology in automobile manufacturing at SKILL LYNC.</li>
+          <li>Basic training mechanical at N.I.P.A.M </li>
+          <li>Introduction to master of Business Administration in GKV Haridwar.</li>
+          <li>Virtual labs in IIT Roorkee and Maharishi University of information technology, (Up)india.</li>
+          <li>Inventory management in HP Life.</li>
+        </div>
+      </div>
+     </section>
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+      <div class="container">
+        <h2>Contact Me</h2>
+        <form id="contact-form">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required>
+
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required>
+
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+
+          <button type="submit">Send Message</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 PANKAJ TIWARI. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
